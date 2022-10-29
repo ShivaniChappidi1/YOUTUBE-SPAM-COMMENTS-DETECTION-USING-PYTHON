@@ -1,4 +1,4 @@
-# youtubecommentspamdetectionusinglink
+# youtubecommentspamdetectionusingpython
 chromedriver.exe is compatible for chrome-89,
 install chromedriver according to chrome version
 
